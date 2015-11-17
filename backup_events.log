@@ -1,0 +1,115 @@
+Application started @ 2015-11-17 21:54:52.318000
+Start backup update sync main process
+Calling robocopy
+Robocopy complete
+Start archive cleanup main process
+get all folders & sort by create datetime
+Starting cleanup
+2 archive snapshots removed
+Start snapshot main process
+Starting snapshot archiving
+Check existing snapshot, and overwrite
+Start copy
+Application started @ 2015-11-17 21:57:39.123000
+Start backup update sync main process
+Calling robocopy
+Robocopy complete
+Start archive cleanup main process
+get all folders & sort by create datetime
+Starting cleanup
+0 archive snapshots removed
+Start snapshot main process
+Starting snapshot archiving
+Check existing snapshot, and overwrite
+Start copy
+Application started @ 2015-11-17 21:58:10.245000
+Start backup update sync main process
+Calling robocopy
+Robocopy complete
+Start archive cleanup main process
+get all folders & sort by create datetime
+Starting cleanup
+1 archive snapshots removed
+Start snapshot main process
+Starting snapshot archiving
+Check existing snapshot, and overwrite
+Start copy
+Application started @ 2015-11-17 21:58:50.686000
+Start backup update sync main process
+Calling robocopy
+Robocopy complete
+Start archive cleanup main process
+get all folders & sort by create datetime
+Starting cleanup
+2 archive snapshots removed
+Start snapshot main process
+Starting snapshot archiving
+Check existing snapshot, and overwrite
+Start copy
+Application started @ 2015-11-17 22:01:15.861000
+Application started @ 2015-11-17 22:03:26.395000
+Source path is invalid
+Application started @ 2015-11-17 22:04:01.304000
+Source path is invalid
+Application started @ 2015-11-17 22:04:37.559000
+Source path is invalid
+Application started @ 2015-11-17 22:04:50.377000
+Source path is invalid
+Application started @ 2015-11-17 22:05:30.178000
+Application started @ 2015-11-17 22:05:40.732000
+Source path is invalid
+Application started @ 2015-11-17 22:05:56.774000
+Source path is invalid
+Application started @ 2015-11-17 22:07:09.099000
+Source path is invalid
+Application started @ 2015-11-17 22:10:34.099000
+Source path is invalid
+Start backup update sync main process
+Calling robocopy
+Robocopy complete
+Start archive cleanup main process
+get all folders & sort by create datetime
+Starting cleanup
+2 archive snapshots removed
+Start snapshot main process
+Starting snapshot archiving
+Check existing snapshot, and overwrite
+Start copy
+Application started @ 2015-11-17 22:12:21.715000
+Application started @ 2015-11-17 22:18:12.200000
+Source path is invalid
+Start backup update sync main process
+Calling robocopy
+Robocopy complete
+Start archive cleanup main process
+get all folders & sort by create datetime
+Starting cleanup
+3 archive snapshots removed
+Start snapshot main process
+Starting snapshot archiving
+Application started @ 2015-11-17 22:18:40.400000
+Source path is invalid
+Start backup update sync main process
+Calling robocopy
+Robocopy complete
+Start archive cleanup main process
+get all folders & sort by create datetime
+Starting cleanup
+2 archive snapshots removed
+Start snapshot main process
+Starting snapshot archiving
+Check existing snapshot, and overwrite
+Start copy
+Application started @ 2015-11-17 22:20:45.428000
+Source path is invalid
+Start backup update sync main process
+Calling robocopy
+Robocopy complete
+Start archive cleanup main process
+get all folders & sort by create datetime
+Starting cleanup
+3 archive snapshots removed
+Start snapshot main process
+Starting snapshot archiving
+Check existing snapshot, and overwrite
+Start copy
